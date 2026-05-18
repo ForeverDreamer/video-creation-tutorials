@@ -1,0 +1,21 @@
+Blender→AE Committed Pipeline (GPL component)
+Copyright (c) 2026 doer
+
+This component is distributed under the GNU General Public License
+v3.0-or-later (see LICENSE), SEPARATELY from and NOT part of the
+MIT-licensed "harness-engineering" resource pack.
+
+Why GPL: these scripts `import bpy` (the Blender Python API). Per
+Blender's GPL policy (Blender is GPL-2.0-or-later), redistributed
+code that uses bpy must be GPL-compatible. The MIT resource pack's
+installer FETCHES this component separately and preserves this
+LICENSE/NOTICE intact, so MIT and GPL artifacts stay license-isolated.
+
+Provenance: independently implemented within the proprietary vcx
+project (coordinate/FOV math is the Bartek Skorupa official lineage
+as a mathematical fact; NO third-party GPL `blender2ae`/
+`io_export_after_effects` source is imported or copied — see vcx
+integration-plan R5b). Redistributed here under GPL solely due to
+the bpy-API linkage above, by the copyright holder's election.
+
+This is not legal advice.
