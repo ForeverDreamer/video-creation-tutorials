@@ -1,8 +1,8 @@
 # harness-engineering-blender-pipeline (GPL component)
 
-> ⚠️ **Not legal advice.** This directory is a **local staging copy**, prepared
-> 2026-05-18, **not yet pushed** to any public repository. Pushing to a public
-> repo is a separate, user-confirmed, irreversible step.
+> ⚠️ **Not legal advice.** This component is distributed under
+> GPL-3.0-or-later in its own directory, license-isolated from the
+> repository-root MIT license (see `LICENSE` / `NOTICE`).
 
 ## What this is
 
