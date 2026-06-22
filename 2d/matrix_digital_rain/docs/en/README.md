@@ -8,7 +8,6 @@ A working, recolorable Matrix-style code rain for After Effects, built entirely 
 |------|------------|
 | `code/demo_matrix_rain.jsx` | A self-contained script that builds the rain (basic tier): falling green monospace columns, a bottom-bright fading trail, a subtle glow, and brighter lead columns. |
 | `prompts.md` | The actual prompts used in the video, in order, to build the rain step by step. |
-| `membership.md` | Where the full, reusable toolkit lives. |
 
 ## Run the demo
 
@@ -36,4 +35,4 @@ The trail uses a text-animator selector whose real property name is `ADBE Text R
 
 ## Want the full version?
 
-The polished, reusable toolkit — 4-level brightness with white-green lead columns, per-glyph flicker, a glow preset library, one-word recolor across green / amber / blue, and helpers you can drop into any animation, updated every episode — is in the 2D membership. See [`membership.md`](membership.md).
+The polished, reusable toolkit — 4-level brightness with white-green lead columns, per-glyph flicker, a glow preset library, one-word recolor across green / amber / blue, and helpers you can drop into any animation, updated every episode — is in the 2D membership. The join link is in the video description.

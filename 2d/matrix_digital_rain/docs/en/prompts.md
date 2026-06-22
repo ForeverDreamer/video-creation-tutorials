@@ -62,4 +62,4 @@ Every value moves into one CONFIG block. Change one word and the whole field rec
 
 ---
 
-The reusable, productized version of all of this (per-glyph flicker, a glow preset library, one-word recolor, helpers for any animation) is in the 2D membership — see [`membership.md`](membership.md).
+The reusable, productized version of all of this (per-glyph flicker, a glow preset library, one-word recolor, helpers for any animation) is in the 2D membership. The join link is in the video description.
