@@ -72,11 +72,19 @@ Download `pr-export-clips-scripts.zip` from the
 
 ## 2D After Effects Demos
 
-_Coming soon — packs land under [`2d/`](2d/) as the videos publish._
+### Matrix Digital Rain
+
+**Video**: *Matrix Digital Rain in After Effects*
+
+A standalone After Effects script that generates the falling-glyph "digital rain" effect.
+See [`2d/matrix_digital_rain/`](2d/matrix_digital_rain/) — edit the config and run; no external dependencies.
+
+Download `2d-matrix_digital_rain-scripts.zip` from the
+[2d-matrix_digital_rain-v1.0 release](https://github.com/ForeverDreamer/video-creation-tutorials/releases/tag/2d-matrix_digital_rain-v1.0).
 
 ## 3D Animation Demos
 
-_Coming soon — packs land under `3d/` as the videos publish._
+*Coming soon — packs land under `3d/` as the videos publish.*
 
 ---
 
