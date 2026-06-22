@@ -7,7 +7,6 @@ The flashy 3D text-cloud camera flythrough that opens the WSL2 deployment video,
 | File | What it is |
 |------|------------|
 | `code/demo_3d_text_flythrough.jsx` | A self-contained script that builds the hook: a dark comp with dozens of bright 3D text layers scattered through a Z-depth volume, plus a one-node camera doing a varied-rhythm flythrough (establishing push, whip pan, dolly-in, orbit, vertigo zoom, boom, dolly-out). |
-| `membership.md` | Where the full, reusable 2D AE workflow lives. |
 
 This demo is **self-contained — zero external assets**. The text cloud is generated procedurally, so there is nothing else to download and nothing bundled.
 
@@ -37,8 +36,8 @@ The camera is a **one-node camera** (its point-of-interest is null). Its aim is 
 
 ## About this free code
 
-This is the version shown in the video. Running it as-is may need a small tweak — After Effects version, fonts, and OS differences can vary. If you just want to **see how the hook is built**, the script is enough to read and run. If you want the **complete, reusable 2D AE workflow** (not just this one hook), see [`membership.md`](membership.md).
+This is the version shown in the video. Running it as-is may need a small tweak — After Effects version, fonts, and OS differences can vary. If you just want to **see how the hook is built**, the script is enough to read and run.
 
 ## Want the full version?
 
-The polished, reusable toolkit — the shared `adobe/ae/scripts/common/` helpers behind every episode (cameras, easing, 3D layout, render helpers), the bridge and CLI tooling, and step-by-step environment setup — is in the 2D membership, updated every episode. See [`membership.md`](membership.md).
+The polished, reusable toolkit — the shared `adobe/ae/scripts/common/` helpers behind every episode (cameras, easing, 3D layout, render helpers), the bridge and CLI tooling, and step-by-step environment setup — is in the 2D membership, updated every episode. The join link is in the video description.
