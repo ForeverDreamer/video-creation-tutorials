@@ -82,6 +82,16 @@ See [`2d/matrix_digital_rain/`](2d/matrix_digital_rain/) — edit the config and
 Download `2d-matrix_digital_rain-scripts.zip` from the
 [2d-matrix_digital_rain-v1.0 release](https://github.com/ForeverDreamer/video-creation-tutorials/releases/tag/2d-matrix_digital_rain-v1.0).
 
+### 3D Text Flythrough (WSL2 deployment hook)
+
+**Video**: *Deploy the 2D AE Workflow on WSL2*
+
+The 3D text-cloud camera flythrough that opens the deployment video, as a standalone script —
+pure After Effects 3D, no plugins. See [`2d/deploy_wsl/`](2d/deploy_wsl/); edit the `CONFIG` block and re-run.
+
+Download `2d-deploy_wsl-scripts.zip` from the
+[2d-deploy_wsl-v1.0 release](https://github.com/ForeverDreamer/video-creation-tutorials/releases/tag/2d-deploy_wsl-v1.0).
+
 ## 3D Animation Demos
 
 *Coming soon — packs land under `3d/` as the videos publish.*
